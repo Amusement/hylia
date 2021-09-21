@@ -7,7 +7,6 @@ sections:
 - type: document
   path: me
   label: About Me
-  match: "**/*"
 - type: heading
   label: Content
 - type: directory
